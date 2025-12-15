@@ -19,7 +19,7 @@ const {
 ```
 
 ```javascript
-await zal.relayMessage(m.chat, {
+await sock.relayMessage(m.chat, {
   productMessage {
     title: "Izalnotdev",
     description: "Xhsut Engine",
